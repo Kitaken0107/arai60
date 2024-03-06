@@ -1,4 +1,8 @@
 # arai60
+
+コーディング面接対策のために解きたいLeetCode 60問
+https://1kohei1.com/leetcode/
+
 ## LinkedList
 141. Linked List Cycle
 142. Linked List Cycle II
